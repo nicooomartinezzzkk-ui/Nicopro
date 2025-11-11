@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi primera web</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Bienvenidos a mi página</h1>
+  </header>
+
+  <section>
+    <p>Esta es mi primera página web programada desde el celular 😎</p>
+    <button onclick="saludo()">Tocá acá</button>
+  </section>
+
+  <script src="script.js"></script>
+</body>
+</html>
